@@ -1,0 +1,11 @@
+{
+	"author": "Johnny",
+	"name": "censority",
+	"version": "0.1.1",
+	"description": "Censors words out of text",
+	"main": "censortext",
+	"dependencies": {},
+	"engine": {
+		"node": "*"
+	}
+}
